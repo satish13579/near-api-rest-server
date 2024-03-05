@@ -1,6 +1,6 @@
 {
     "server_host": "localhost",
-    "server_port": 3000,
-    "rpc_node": "https://rpc.testnet.near.org",
+    "server_port": 443,
+    "rpc_node": "https://rpc.mainnet.near.org",
     "init_disabled": true
 }
