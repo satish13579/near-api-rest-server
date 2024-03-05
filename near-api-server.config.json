@@ -1,5 +1,5 @@
 {
-    "server_host": "localhost",
+    "server_host": "https://near-api-rest-server.onrender.com",
     "server_port": 8000,
     "rpc_node": "https://rpc.mainnet.near.org",
     "init_disabled": true
